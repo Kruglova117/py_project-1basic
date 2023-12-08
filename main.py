@@ -1,3 +1,5 @@
-print('Nothing')
-print('will work')
-print('unless you do')
+print('"Life is what happens')
+print('when')
+print('youre busy making other plans"')
+
+print('John Lennon')
